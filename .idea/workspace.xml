@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a16f5699-da0f-4443-8b49-bc8cab45a512" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xlMDqN4fW9ujBZpll6wCUrRerY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Ex1">
+    <configuration name="Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.ex0.testari.Class" />
+      <module name="CursOnlineProiect1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ex0.testari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.ex0.testari.Ex1" />
+      <module name="CursOnlineProiect1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ex0.testari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.ex12.Polymorphism.Main" />
+      <module name="CursOnlineProiect1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ex12.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.ex9.AbstractClass.Main" />
+      <module name="CursOnlineProiect1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ex9.AbstractClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.ex10.Encapsulation.Main" />
+      <module name="CursOnlineProiect1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ex10.Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.Class" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Serban\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a16f5699-da0f-4443-8b49-bc8cab45a512" name="Default Changelist" comment="" />
+      <created>1630925104566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630925104566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Notifications" timestamp="1631618394407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631618394407" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1631431884431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631431884431" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631432135827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631432135827" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1631516605131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631516605131" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1631544530574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631544530574" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1631544530574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631544530574" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1631544530574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631544530574" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1631544530574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631544530574" />
+    <state x="263" y="100" key="IDE.errors.dialog" timestamp="1631618400540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="100" key="IDE.errors.dialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631618400540" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1631618368893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631618368893" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1631618343364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631618343364" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1631009836118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631009836118" />
+    <state x="513" y="156" key="svn.repositoryBrowser" timestamp="1631516620309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="156" key="svn.repositoryBrowser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631516620309" />
+    <state x="484" y="140" key="svn4idea.import.options" timestamp="1631516606657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="140" key="svn4idea.import.options/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1631516606657" />
+  </component>
+</project>
