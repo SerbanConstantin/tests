@@ -1,0 +1,2 @@
+Constr: Tesla, Kia, Porsche, Jaguar
+Models: Model 3, E-Niro, Tycan, I-Pace
